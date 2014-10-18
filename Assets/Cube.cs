@@ -5,7 +5,7 @@ public class Cube : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		Debug.Log ("Hello,Goodbye");
+		Debug.Log ("Hello");
 	}
 	
 	// Update is called once per frame
